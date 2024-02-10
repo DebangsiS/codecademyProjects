@@ -1,1 +1,1 @@
-# codecademyProjects
+# Codecademy Project Part - 1
